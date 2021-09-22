@@ -8,3 +8,5 @@ This is a React Todo List App built using React hooks, useEffect, useState and u
   - Delete Todo
   - Update Todo
   - Mark Complete / Cross Out Todo
+
+![](todoapp.gif)
